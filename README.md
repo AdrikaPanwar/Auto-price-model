@@ -21,6 +21,7 @@ https://ml.azure.com/experiments/id/69278a1e-a7df-4958-8246-6f01e654617f/runs/79
 <img width="877" alt="visualizations" src="https://github.com/AdrikaPanwar/Auto-price-model/assets/162022172/a9c142a4-a3d0-41b9-9d06-31650a49298c">
 
 
+### (In one png, I have done Data Wrangler it is a tool in the microsoft fabric where you can get the summary and visually analysis of your data in the stastical format)
 
 
 ##### I am using the Azure-free subscription to explore it and making this model too but unable to directly upload it (deploy) here because of the cost , so you can understand my concern easily; that's why I am uploading the png of my project and it is the nice experience as a student to explore the Data wrangler, regression, MLflow, hyperparameter and retrain model in the free-subscription too.
